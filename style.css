@@ -1,0 +1,32 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+    
+    
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    min-height: 100vh;
+    background: url(header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-xl{
+    background: #FF7B22;
+    border: none;
+    padding: .8rem 2rem;
+    border-radius: 50px;
+    margin-top: 25px !imortant;
+}
+.btn-xl:hover{
+    background: #FF6B06;
+}
+.faded{
+    margin-bottom: 100px !important;
+}
